@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+/*h1{
+color: red;
+}
+p{
+color: blue;
+}*/
+.myHead1{
+color: red
+}
+.myHead1 ,.myptag{
+color: red;
+background-color: aqua;
+}
+
+#mythirdelement{
+color: green;
+}
